@@ -1,0 +1,46 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,700&display=swap');
+body {
+      background-image:url("https://img.freepik.com/premium-photo/sharp-corners-lit-racing-track-formula-one-racing-generative-ai_124507-26695.jpg");
+      background-repeat: no-repeat;
+      background-size: 100% 100%;
+}
+html {
+      height: 100%
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,700&family=Young+Serif&display=swap');
+button{
+      font-size: 20px;
+      font-weight: 700;
+      color: black;
+      font-family: 'Young+Serif&display=swap';
+      box-shadow: 1px 2px 1px 2px rgb(243, 155, 67);
+}
+
+ button:hover {
+      background-color: rgb(255, 206, 8);
+      font-size: 20px;
+      font-weight: 700;
+      color: rgb(14, 13, 8);
+      font-family: 'Young+Serif&display=swap';
+      box-shadow: 1px 2px 1px 2px rgb(255, 241, 114);
+}
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Lilita+One&family=Merriweather:ital,wght@1,700&family=Young+Serif&display=swap');
+.texted{
+      font-family: 'Young+Serif&display=swap';
+}
+
+
+.text{
+      font-family: digital-clock;
+}
+@font-face {
+      font-family: digital-clock;
+      src: url(textimg/DS-DIGIT.TTF);
+}
+/* @font-face{
+      font-family:'digital-clock-font';
+      src: url('put_the_location_to_your_font.ttf or .otf');
+     } */
